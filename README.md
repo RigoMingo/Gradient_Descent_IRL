@@ -11,6 +11,6 @@ The Q-learning fucntion uses Q and R to train a linear in parameter NN (LIPNN) t
 
 * Notice: Grad will use manual NN, while Grad_Tf will use tensorflow NN
 
-The Q-Learning file works by pressing "run", there is no other files needed for the NN to learn. This file needs to be used first as it saves an optimal policy used in the Grad file.
+The Q-Learning file works by pressing "run", there is no other files needed for the NN to learn. This file needs to be used first as it saves an optimal policy used in the Grad file. Some samples have been provided in the form of .txt files.
 
 The Grad file is a jupyter notebook which would need to have every section run individually.
